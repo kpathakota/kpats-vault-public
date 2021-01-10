@@ -2,12 +2,17 @@
 id: b11a7dd8-ecf5-4b76-958f-ee4e1f700240
 title: Money
 desc: ""
-updated: 1609713000142
+updated: 1609807093499
 created: 1606549528913
 stub: false
 ---
 
 # Money
 
+## Active projects
+
+- [[proj.estate-planning]]
+
 ## To do
-- [ ] Do estate planning using facebook benefit [[tags.next]]
+
+- [x] Do estate planning [[tags.done]]
