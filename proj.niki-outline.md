@@ -2,7 +2,7 @@
 id: 12481145-7cb8-413b-8eab-a2c8a044ae3c
 title: Niki-first-draft
 desc: ""
-updated: 1609725137183
+updated: 1611038843888
 created: 1609559947828
 ---
 
@@ -24,9 +24,11 @@ Add as many world-building elements as possible to this:
 
 - [ ] Write 2K words/week until I've got a first-draft [[next|tags.next]]
 
-| Week number | Words Writter | Words Remaining |
+| Week number | Words Written | Words Remaining |
 | ----------- | ------------- | --------------- |
 | 1           | 0             | 2000            |
+| 2           | 0             | 2000            |
+| 3           | 0             | 2000            |
 
 ## Outline
 

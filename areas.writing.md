@@ -2,7 +2,7 @@
 id: 6652a2a1-f26b-46a2-857d-cf089b17508d
 title: Writing
 desc: ""
-updated: 1609726070373
+updated: 1611022227233
 created: 1597721519096
 ---
 
@@ -10,6 +10,7 @@ created: 1597721519096
 
 ## Active Projects
 
+- [[proj.2020-year-in-review]]
 - [[proj.niki-outline]]
 
 Make sure to check [[areas.writing.inbox]]
