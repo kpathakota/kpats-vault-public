@@ -2,7 +2,7 @@
 id: 12481145-7cb8-413b-8eab-a2c8a044ae3c
 title: Niki-first-draft
 desc: ""
-updated: 1611542478583
+updated: 1612164965935
 created: 1609559947828
 ---
 
@@ -30,6 +30,7 @@ Add as many world-building elements as possible to this:
 | 2           | 0             | 2000            |
 | 3           | 0             | 2000            |
 | 4           | 0             | 2000            |
+| 5           | 0             | 2000            |
 
 ## Outline
 
