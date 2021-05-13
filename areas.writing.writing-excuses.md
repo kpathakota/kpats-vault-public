@@ -1,7 +1,7 @@
 ---
 id: 49e6c8bc-4e0c-43eb-9f11-3e9765e19e07
 title: Writing-excuses
-desc: ""
+desc: ''
 updated: 1608434723034
 created: 1608430966645
 ---

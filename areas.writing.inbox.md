@@ -1,7 +1,7 @@
 ---
 id: 67f4c1e6-3bc2-4ccc-924e-4fe5172e0289
 title: Writing Inbox
-desc: ""
+desc: ''
 updated: 1599930608785
 created: 1599930608785
 stub: false

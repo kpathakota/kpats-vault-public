@@ -1,7 +1,7 @@
 ---
 id: af1427e8-4ae5-4f3d-b021-4a60279ef4d1
 title: ruby
-desc: ""
+desc: ''
 updated: 1606457726838
 created: 1596089804361
 ---

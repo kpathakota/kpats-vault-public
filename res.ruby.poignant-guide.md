@@ -1,7 +1,7 @@
 ---
 id: e1358770-e5f0-4695-9ace-4def5c94ed29
 title: poignant-guide
-desc: ""
+desc: ''
 updated: 1596089822516
 created: 1596089822516
 ---

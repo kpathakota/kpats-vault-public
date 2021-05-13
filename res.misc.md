@@ -1,14 +1,9 @@
 ---
 id: 02bd6183-6734-44ae-8101-935a92c3acb2
 title: misc
-desc: ""
+desc: ''
 updated: 1595208047280
 created: 1595208047280
-data: {}
-custom: {}
-fname: res.misc
-parent: null
-children: []
 ---
 
 # Imported Assets

@@ -1,7 +1,7 @@
 ---
 id: 39710fbe-3831-498a-a4ce-844e76998bfb
 title: Fire-resources
-desc: ""
+desc: ''
 updated: 1615244006954
 created: 1606506354649
 ---
